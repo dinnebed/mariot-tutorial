@@ -1,4 +1,5 @@
 Data Structures II
 Exploring the Future
 Computer Organization
-Discrete Mathematics
+Software Engineering
+Web Application Engineering
