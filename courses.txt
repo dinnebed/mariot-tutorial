@@ -1,1 +1,4 @@
 Data Structures II
+Exploring the Future
+Computer Organization
+Discrete Mathematics
